@@ -4,7 +4,7 @@
 #include <iostream>
 using std::string;
 string box(int width, int height);
-
+string triangle(int l);
 
 #endif
 
